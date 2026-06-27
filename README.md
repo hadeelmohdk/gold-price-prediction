@@ -6,4 +6,4 @@ Built a neural network with Dense and Dropout layers
 
 Trained and evaluated the model achieving ~90% accuracy
 
-Libraries used, Python, Keras, scikit-learn, pandas, NumPy, Matplotlib, Seaborn
+Libraries used: Python, Keras, scikit-learn, pandas, NumPy, Matplotlib, Seaborn
